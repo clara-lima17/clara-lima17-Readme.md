@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Clara lima and I am a master's student at Análise e desenvolvimento de sistemas. I am uma estudante em busca de aprimorar meus conhecimentos na tecnologia e desenvolvimento de software. Minhas tecnologias e linguagens de programação que mais uso são:MySQL, javascript,HTML/CSS. Besides programming, I have an immense interest in music.
+Hello, my name is Clara lima and I am  student at Análise e desenvolvimento de sistemas. I am uma estudante em busca de aprimorar meus conhecimentos na tecnologia e desenvolvimento de software. Minhas tecnologias e linguagens de programação que mais uso são:MySQL, javascript,HTML/CSS. Besides programming, I have an immense interest in music.
 
 - 🔭 Atualmente estudo Análise e desenvolvimento de sistemas
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
