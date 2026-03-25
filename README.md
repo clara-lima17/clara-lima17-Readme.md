@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Clara Lima and I am a Computer Technician for the Internet from IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco) and a student of Systems Analysis and Development. I am seeking to improve my knowledge in technology and software development. The technologies and programming languages I use the most are MySQL, JavaScript, and HTML/CSS. Besides programming, I have a great interest in music.
+Olá, meu nome é Clara Lima e sou Técnica em Informática para Internet pelo IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco) e estudante de Análise e Desenvolvimento de Sistemas. Estou buscando aprimorar meus conhecimentos em tecnologia e desenvolvimento de software. As tecnologias e linguagens de programação que mais utilizo são MySQL, JavaScript e HTML/CSS. Além da programação, tenho grande interesse por música.
 
-- ⚡I am a Computer Technician for the Internet from IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco)
-- 🔭 I am currently studying Systems Analysis and Development.
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 📫 How to reach me: clarinha8643@gmail.com
+⚡ Sou Técnica em Informática para Internet pelo IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco)
+🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+💬 Converse comigo sobre tecnologia, algoritmos, carreira e música
+📫 Como me contatar: [clarinha8643@gmail.com]
 
 
 **Languages and Tools:** 
