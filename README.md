@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 Olá, meu nome é Clara Lima e sou Técnica em Informática para Internet pelo IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco) e estudante de Análise e Desenvolvimento de Sistemas. Estou buscando aprimorar meus conhecimentos em tecnologia e desenvolvimento de software. As tecnologias e linguagens de programação que mais utilizo são MySQL, JavaScript e HTML/CSS. Além da programação, tenho grande interesse por música.
 
 ⚡ Sou Técnica em Informática para Internet pelo IFPE (Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco)
+
 🔭 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+
 💬 Converse comigo sobre tecnologia, algoritmos, carreira e música
-📫 Como me contatar: [clarinha8643@gmail.com]
+
+📫 Como me contatar: [clarinha8643@gmail.com](mailto:clarinha8643@gmail.com)
+
 
 
 **Languages and Tools:** 
